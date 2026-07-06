@@ -1,0 +1,14 @@
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="320" rx="16" fill="#f8fafc"/>
+  <rect x="32" y="32" width="496" height="64" rx="10" fill="#0ea5e9"/>
+  <text x="60" y="72" font-family="Arial, sans-serif" font-size="24" fill="#ffffff">Projetos</text>
+  <rect x="32" y="118" width="150" height="170" rx="10" fill="#e2e8f0"/>
+  <rect x="205" y="118" width="150" height="170" rx="10" fill="#e2e8f0"/>
+  <rect x="378" y="118" width="150" height="170" rx="10" fill="#e2e8f0"/>
+  <circle cx="107" cy="170" r="28" fill="#38bdf8"/>
+  <circle cx="280" cy="170" r="28" fill="#38bdf8"/>
+  <circle cx="453" cy="170" r="28" fill="#38bdf8"/>
+  <rect x="67" y="212" width="80" height="10" rx="5" fill="#64748b"/>
+  <rect x="240" y="212" width="80" height="10" rx="5" fill="#64748b"/>
+  <rect x="413" y="212" width="80" height="10" rx="5" fill="#64748b"/>
+</svg>
