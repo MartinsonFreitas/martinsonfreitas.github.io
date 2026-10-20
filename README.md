@@ -72,14 +72,15 @@ Desenvolvimento e padronização da experiência mobile progressiva (PWA) com te
 
 Para avaliação dos fluxos e regras de negócio no ambiente online, utilize as credenciais de teste disponíveis nos seeders oficiais:
 
-| Perfil | Finalidade Principal |
-| :--- | :--- |
-| **Administrador** | Gestão de usuários, métricas globais e auditoria do ecossistema |
-| **Cooperativa** | Triagem, pesagem, fardos e despacho para recicladoras |
-| **Recicladora** | Leilão/compra de lotes prensados de materiais |
-| **Colaborador (Coletor)** | Logística de rota, coleta em campo e validação de pesagem |
-| **Cliente PF / PJ** | Descarte consciente, histórico e acúmulo de créditos de carbono |
-| **Design Thinker** | Resgate de matéria-prima para economia circular e upcycling |
+| Perfil | Finalidade Principal | usuário | seha |
+| :--- | :--- | :--- | :--- |
+| **Administrador** | Gestão de usuários, métricas globais e auditoria do ecossistema | admin@teste.com | password123 |
+| **Cooperativa** | Triagem, pesagem, fardos e despacho para recicladoras | cooperativa@teste.com | password123 |
+| **Recicladora** | Leilão/compra de lotes prensados de materiais | reciclador@teste.com | abcd1234 |
+| **Colaborador (Coletor)** | Logística de rota, coleta em campo e validação de pesagem | colaborador@teste.com | password123 |
+| **Cliente PF** | Descarte consciente, histórico e acúmulo de créditos de carbono | cliente.pf@teste.com | abcd@1234 |
+| **Cliente PJ** | Descarte consciente, histórico e acúmulo de créditos de carbono | cliente.pj@teste.com | password |
+| **Design Thinker** | Resgate de matéria-prima para economia circular e upcycling | design.thinker@teste.com | password |
 
 ---
 
