@@ -72,7 +72,7 @@ Desenvolvimento e padronização da experiência mobile progressiva (PWA) com te
 
 Para avaliação dos fluxos e regras de negócio no ambiente online, utilize as credenciais de teste disponíveis nos seeders oficiais:
 
-| Perfil | Finalidade Principal | usuário | seha |
+| Perfil | Finalidade Principal | usuário | senha |
 | :--- | :--- | :--- | :--- |
 | **Administrador** | Gestão de usuários, métricas globais e auditoria do ecossistema | admin@teste.com | password123 |
 | **Cooperativa** | Triagem, pesagem, fardos e despacho para recicladoras | cooperativa@teste.com | password123 |
